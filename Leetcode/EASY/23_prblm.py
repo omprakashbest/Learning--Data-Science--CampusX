@@ -19,4 +19,4 @@ class Solution:
                 return c
             if count_s[c] < count_t[c]:
                 return c
-            
+        
